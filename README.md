@@ -45,7 +45,7 @@ Web制作における情報整理力とUI設計力を示すことを目的とし
 ---
 
 ## デモ
-（ここにGitHub PagesのURLを追加）
+https://ddykazu102-source.github.io/web-service-lp/
 
 ---
 
